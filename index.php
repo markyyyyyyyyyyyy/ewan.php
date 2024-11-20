@@ -305,9 +305,7 @@
                         <i class="fas fa-map-marker-alt"></i>
                     </div>
                     <div class="addet">
-                        BlueDart
-                        Marthandam (K.K District)
-                        Tamil Nadu, IND 
+                        Q.C
                     </div>
                 </div>
                 <div class="foot-address">
@@ -315,8 +313,8 @@
                         <i class="far fa-envelope-open"></i>
                     </div>
                     <div class="addet">
-                        info@smarteyeapps.com <br>
-                        sales@smarteyeapps.com
+                        markalcayde02@gmail.com <br>
+                        toothbook@gmail.com
                     </div>
                 </div>
                 <div class="foot-address">
@@ -324,8 +322,8 @@
                        <i class="fas fa-mobile-alt"></i>
                    </div>
                    <div class="addet">
-                    +23 323 43434 <br>
-                    +1 3232 434 55
+                    +64 9641657725<br>
+                    
                 </div>
             </div>
         </div>
@@ -358,13 +356,11 @@
         <div class="col-md-3 tags">
             <h2>Easy Tags</h2>
             <ul>
-                <li>Finance</li>
+                
                 <li>Web Design</li>
-                <li>Internet Pro</li>
+              <li>PHP</li>
                 <li>Node Js</li>
-                <li>Java Swing</li>
-                <li>Angular Js</li>
-                <li>Vue Js</li>
+                
             </ul>
         </div>
     </div>
@@ -372,7 +368,7 @@
 </footer>
 <div class="copy">
     <div class="container">
-        <a href="https://www.smarteyeapps.com/">2015 &copy; All Rights Reserved | Designed and Developed by Smarteyeapps</a>
+        <a href="">2023 &copy; All Rights Reserved</a>
         <span>
             <a><i class="fab fa-github"></i></a>
             <a><i class="fab fa-google-plus-g"></i></a>
